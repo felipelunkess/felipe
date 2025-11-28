@@ -1,0 +1,13 @@
+1- Abra o terminal do seu VSCODE pressionando CTRL +J
+2- Adicione os códigos no terminal de forma sequencial
+
+npm init -y
+npm install express
+npm install nodemon --save-dev
+
+3-Depois desses passos, tudo foi instalado. Agora basta inicializar.
+Use o comando abaixo para isso.
+
+npm run dev
+
+4-Pronto, seu servidor está aberto e funcionando
